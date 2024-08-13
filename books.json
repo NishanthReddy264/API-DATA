@@ -1,4 +1,4 @@
-{
+[{
         "number": 1,
         "title": "Harry Potter and the Sorcerer's Stone",
         "originalTitle": "Harry Potter and the Sorcerer's Stone",
@@ -70,3 +70,4 @@
         "pages": 336,
         "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/8.png"
     }
+]
